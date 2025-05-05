@@ -1,6 +1,7 @@
 {
   "name": "nyu-press-api",
   "version": "1.0.0",
+  "type": "module",
   "main": "server.js",
   "dependencies": {
     "express": "^5.0.0",
@@ -8,6 +9,6 @@
     "axios": "^1.6.0"
   },
   "scripts": {
-    "start": "node server.js"
+    "start": "node app.js"
   }
 }

@@ -14,7 +14,7 @@ import base64
 
 # Solr setup - Update with your Solr URL and core/collection name
 SOLR_COLLECTION = "bookCollection"
-SOLR_URL = "http://solr:8983/solr/" + SOLR_COLLECTION
+SOLR_URL = "http://localhost:8983/solr/" + SOLR_COLLECTION
 
 def parse_epub(file_path):
 

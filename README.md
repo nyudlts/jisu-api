@@ -1,5 +1,5 @@
 # jisu-api
-A simple Node.js Express server to enable api calls from the jisu-reader to the Solr database.  This project also contains python scripts for ingesting EPUB books into Solr.
+A simple Node.js Express server to enable api calls from the jisu-reader to the Solr database.  This project also contains python scripts for ingesting EPUB books into Solr and a 'docs' directory that should include all the EPUBs that will be available to the jisu-reader in production.
 
 ## Dev Setup
 For development purposes it is possible to run this project locally.  
